@@ -1,0 +1,95 @@
+vertAlign.app {
+    width: 100%;
+    height: 100%;
+    font-family: Raleway;
+}
+input:focus {
+    outline: 0;
+}
+.reg {
+    font-family: "Arial",Helvetica,sans-serif;
+    margin: 15% 0 10% 14%;
+    text-align: left;
+}
+
+#title {
+    font-family: "Arial",Helvetica,sans-serif;
+    font-size: 260%;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 25%;
+    margin-bottom: 17%;
+    color: #F33F40;
+}
+
+.sesion {
+    text-align: center;
+    font-family: "Arial",Helvetica,sans-serif;
+    font-size: 70%;
+    align-content: center;
+    width: 45%;
+    line-height: 300%;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0;
+    background-color: #102F4B;
+    margin: 4%;
+    color: white;
+}
+.valid {
+    text-align: center;
+    font-family: "Arial",Helvetica,sans-serif;
+    font-size: 18px;
+    width: 30%;
+    line-height: 200%;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0;
+    background-color: #102F4B;
+    color: white;
+
+}
+.valid:active {
+    background-color: #40627F;
+}
+.udata {
+    border: none;
+    border-bottom: 2px solid;
+    font-size: 100%;
+    margin: 3% 0 7% 0;
+    align-content: center;
+}
+.sesion:active {
+    background-color: #40627F;
+}
+.vertAlign {
+    text-align: center;
+    font-size: 25px;
+}
+
+.regtext {
+    margin-bottom: 10%;
+}
+
+.regbut {
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 19%;
+    color: #F33F40;
+}
+/*
+#102F4B Azul
+#F33F40 Rojo
+*/
+.back {
+    width: 8vh;
+    height: 8vh;
+    border: none;
+    margin: 2vh;
+    background: #FFFFFF;
+    font-weight: bold;
+    font-size: 4vh;
+    line-height: 0;
+}
